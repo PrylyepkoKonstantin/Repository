@@ -1,0 +1,20 @@
+.btn, .btn1,.btn2, .btn3, .btn4{
+	 text-decoration:none; 
+	 text-align:center; 
+	 padding:5px 32px; 
+	 border:solid 1px #004F72; 
+	 border-radius: 4px; 
+	 font:18px Arial, Helvetica, sans-serif; 
+	 font-weight:bold; 
+	 color:#E5FFFF; 
+	 background-color:#3BA4C7;
+	 position: relative;
+	 display: inline-block;
+}
+
+.block{
+	 height: 50px;
+	 width: 50px;
+	 background-color: yellow;
+	 position: absolute;
+}
